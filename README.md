@@ -1,8 +1,12 @@
 <h1><strong>Aerial Image Classification</strong></h1>
-<h3>Develop a robust aerial image classification system to analyze and categorize land use patterns
-using high-resolution satellite imagery. This project aims to leverage machine learning
-techniques, specifically deep learning models, to automatically classify aerial images into
-predefined land use classes such as urban areas, agricultural fields, forests, and water bodies.</h3>
+<h3>This project focuses on the development of an advanced aerial image classification system aimed at enhancing remote sensing capabilities. Leveraging machine learning and deep learning techniques, such as Convolutional Neural Networks (CNNs), Support Vector Machines (SVMs), and ensemble methods, the system addresses challenges in varying illumination, weather conditions, and complex land patterns. 
+
+Key features include:
+- *Disaster Detection:* The model identifies natural disasters like earthquakes, cyclones, and wildfires using satellite and drone imagery. It classifies images into disaster or normal categories, displaying results with associated probabilities.
+- *Techniques and Methods:* Utilizes state-of-the-art deep learning methods, including CNNs and data augmentation, to improve accuracy and robustness.
+- *Applications:* Applicable in remote sensing, urban planning, agriculture, disaster management, environmental monitoring, and military intelligence.
+
+The project also explores preprocessing steps, transfer learning, and domain-specific architectures to overcome challenges such as data scarcity and environmental impacts..</h3>
 <hr>
 <H1> Hardware Requirements</H1>
 <ul>
@@ -23,8 +27,8 @@ predefined land use classes such as urban areas, agricultural fields, forests, a
 <li>Google Colab</li>
 </ul>
 <hr>
-<h1>Project Description</h1>
-<img src="C:\Users\priiy\Downloads\Aerial Image Classification\Aerial Image Classification\pd.png" alt="Description of Image" width="500" height="300"> Aerial Image </img>
+<h1>Proposed Design</h1>
+<img src="pd.png" alt="Description of Image" width="500" height="300"> </img>
 
 <hr>
 <h1>Testing and Results</h1>
