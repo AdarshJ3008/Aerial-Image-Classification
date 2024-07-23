@@ -32,6 +32,28 @@ The project also explores preprocessing steps, transfer learning, and domain-spe
 
 <hr>
 <h1>Testing and Results</h1>
+<h2>Training V/S Validation loss </h2>
+<img src="graph1.png" alt="Description of Image" width="500" height="300"> </img>
+<h2>Training V/S Validation IoU </h2>
+<img src="graph2.png" alt="Description of Image" width="500" height="300"> </img>
+<hr>
+<h3>Output Images</h3>
+<div class=image-container > 
+<img src="body_description.png" alt="Description of Image" width="500" height="300"> </img>
+<img src="body_description2.png" alt="Description of Image" width="500" height="300"> </img>
+</div>
+
+<style>
+        .image-container {
+            display: inline-block;
+            margin-right: 80px; /* Adjust spacing between images as needed */
+            padding-right:30px;    
+        }
+</style>
+
+<img src="classified1.png" alt="Description of Image" width="500" height="300"> </img>
+    
+  
 
 
 
