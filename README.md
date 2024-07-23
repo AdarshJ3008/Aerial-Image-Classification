@@ -44,14 +44,13 @@ The project also explores preprocessing steps, transfer learning, and domain-spe
 </div>
 
 <style>
-        .image-container {
+      .image-container {
             display: inline-block;
-            margin-right: 80px; /* Adjust spacing between images as needed */
-            padding-right:30px;    
+            margin-right: 80px;     
         }
 </style>
 
-<img src="classified1.png" alt="Description of Image" width="500" height="300"> </img>
+<img src="classified_image.png" alt="Description of Image" width="500" height="300"> </img>
     
   
 
