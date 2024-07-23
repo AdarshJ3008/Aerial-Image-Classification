@@ -38,6 +38,7 @@ The project also explores preprocessing steps, transfer learning, and domain-spe
 <img src="graph2.png" alt="Description of Image" width="500" height="300"> </img>
 <hr>
 <h3>Output Images</h3>
+
 <div class=image-container > 
 <img src="body_description.png" alt="Description of Image" width="500" height="300"> </img>
 <img src="body_description2.png" alt="Description of Image" width="500" height="300"> </img>
@@ -49,6 +50,7 @@ The project also explores preprocessing steps, transfer learning, and domain-spe
             margin-right: 80px;     
         }
 </style>
+<h3> Original Image Vs Masked Image Vs Predicted Image </h3>
 
 <img src="classified_image.png" alt="Description of Image" width="500" height="300"> </img>
     
