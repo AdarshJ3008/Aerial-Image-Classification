@@ -42,3 +42,6 @@ The project also explores preprocessing steps, transfer learning, and domain-spe
 
 <h3>Original Image vs. Masked Image vs. Predicted Image</h3>
 <img src="classified_image.png" alt="Predicted Image" width="500" height="300">
+
+<h2>License</h2>
+    <p>This project is licensed under the MIT License. See the LICENSE file for more details.</p>
