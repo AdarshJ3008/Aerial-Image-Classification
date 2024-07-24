@@ -44,4 +44,4 @@ The project also explores preprocessing steps, transfer learning, and domain-spe
 <img src="classified_image.png" alt="Predicted Image" width="500" height="300">
 
 <h2>License</h2>
-    <p>This project is licensed under the MIT License. See the LICENSE file for more details.</p>
+    <p>This project is licensed under the MIT License. See the <code>LICENSE.sql</code> file for more details.</p>
